@@ -1,2 +1,2 @@
 # mauricegao.github.io
-Personal Website
+Personal Website from scratch
