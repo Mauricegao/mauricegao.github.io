@@ -13,7 +13,12 @@ footer .row {
   align-items: center;
 }
 
+/*---------------------------*/
+/* Name display on top left  */
+/*---------------------------*/
+
 header h1 {
+  font: 'Futura', sans-serif;
   font-weight: 700;
   margin: 0;
 }
@@ -23,7 +28,7 @@ header nav {
   justify-content: flex-end;
 }
 
-header p {
+header a {
   padding: 0 20px;
   margin: 0;
 }
